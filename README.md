@@ -1,6 +1,54 @@
 ## Hi there, Tanmay here 👋
 
 ---
+<table>
+  <thead>
+    <tr>
+      <th width="500px">Languages & Frameworks</th>
+      <th width="500px">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></li>
+          <li><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></li>
+          <li><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DjangoREST"></li>
+          <li><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></li>
+        </ul>
+      </td>
+      <td>
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></li>
+          <li><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"></li>
+          <li><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase"></li>
+          <li><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></li>
+        </ul>
+      </td>
+    </tr>
+   <tr>
+      <th width="500px">Languages & Frameworks</th>
+      <th width="500px">Database</th>
+    </tr>
+    <tr>
+      <td>
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></li>
+          <li><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></li>
+          <li><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></li>
+          <li><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></li>
+        </ul>
+      </td>
+      <td>
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li><img src="https://img.shields.io/badge/hostinger-%238511FA.svg?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"></li>
+          <li><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # **👨‍💻 Skills**
 
