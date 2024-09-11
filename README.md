@@ -1,6 +1,7 @@
 ## Hi there, Tanmay here 👋
 
 ---
+# **👨‍💻 Skills**
 <table>
   <thead>
     <tr>
@@ -50,8 +51,7 @@
   </tbody>
 </table>
 
-# **👨‍💻 Skills**
-
+<!--
 **Languages & Frameworks:**
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -75,7 +75,15 @@
 - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+-->
 
+## Under Development 🛠️⚠️
 
+### What’s Coming
+- **Detailed Projects:** I’m working on showcasing detailed information about my projects and contributions.
+- **Portfolio:** Links to my personal website or portfolio showcasing my work and projects.
+- **Contact Information:** I’ll be including ways to get in touch with me and opportunities for collaboration.
+
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanmay-m-chaudhari/)  
-
+-->
