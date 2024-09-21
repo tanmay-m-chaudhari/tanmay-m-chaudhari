@@ -29,7 +29,7 @@
       </td>
     </tr>
    <tr>
-      <th width="500px">Languages & Frameworks</th>
+      <th width="500px">Frontend</th>
       <th width="500px">Deployments</th>
     </tr>
     <tr>
