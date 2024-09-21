@@ -30,7 +30,7 @@
     </tr>
    <tr>
       <th width="500px">Languages & Frameworks</th>
-      <th width="500px">Database</th>
+      <th width="500px">Deployments</th>
     </tr>
     <tr>
       <td>
